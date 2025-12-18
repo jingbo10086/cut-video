@@ -1,0 +1,8 @@
+{
+  "name": "高光时刻制片厂",
+  "description": "一款基于 AI 的视频分析与剪辑工作台，可自动检测课堂录像中的“精彩瞬间”，并生成带有特效、字幕和背景音乐的高质量片段。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
